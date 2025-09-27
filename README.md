@@ -39,6 +39,14 @@
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td align="center"><strong>Aws</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWS-Lambda&logoColor=white" />
+      <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white" />
+    </td>
+  </tr>
     <tr>
     <td align="center"><strong>Tools</strong></td>
     <td>
