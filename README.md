@@ -40,7 +40,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Aws</strong></td>
+    <td align="center"><strong>AWS</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWS-Lambda&logoColor=white" />
       <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white" />
