@@ -47,11 +47,18 @@
       <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white" />
     </td>
   </tr>
-    <tr>
+  <tr>
     <td align="center"><strong>Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+      <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Virtualization</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=Microsoft&logoColor=white" />
     </td>
   </tr>
 </table>
