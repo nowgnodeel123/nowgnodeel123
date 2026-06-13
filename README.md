@@ -16,8 +16,8 @@
 
 ### About
 
-Java/Spring Boot 기반 RESTful API 개발과 AWS Lambda · DynamoDB · S3를 활용한 서버리스 데이터 파이프라인 구축 경험을 보유하고 있습니다.
-MySQL · Oracle 실무 경험과 Hyper-V 기반 온프레미스 가상화 환경 운영 경험을 갖추고 있으며, React를 활용한 프론트엔드 협업 또한 가능합니다.
+현재 Siemens Teamcenter AWC(Active Workspace Client) 커스터마이징 개발을 수행하고 있으며, 선언형 프레임워크(ViewModel JSON · Service JS · HTML) 기반의 PLM 시스템 개발 경험을 보유하고 있습니다.
+Java/Spring Boot 기반 RESTful API 개발과 AWS Lambda · DynamoDB · S3를 활용한 서버리스 데이터 파이프라인 구축 경험도 갖추고 있습니다.
 
 ---
 
@@ -30,7 +30,7 @@ MySQL · Oracle 실무 경험과 Hyper-V 기반 온프레미스 가상화 환경
 | **Cloud** | ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=AWS-Lambda&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white) ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white) |
 | **Infra** | ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=Microsoft&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white) |
 | **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) |
-| **PLM** | ![Teamcenter](https://img.shields.io/badge/Siemens_Teamcenter_AWC-009999?style=flat-square&logo=Siemens&logoColor=white) |
+| **PLM** | ![Teamcenter](https://img.shields.io/badge/Siemens_Teamcenter-009999?style=flat-square&logo=Siemens&logoColor=white) |
 
 ---
 
