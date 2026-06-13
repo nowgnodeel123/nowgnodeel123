@@ -1,50 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Dongwon%20Lee&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend%20Engineer%20%7C%20Data%20Pipeline%20·%20PLM%20Systems&descAlignY=62&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:2a5298&height=180&section=header&text=Dongwon%20Lee&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=44&desc=Backend%20Engineer%20%7C%20Data%20Pipeline%20%C2%B7%20PLM%20Systems&descAlignY=63&descSize=17&fontAlign=50" width="100%" />
 
 <br/>
 
-<div align="center">
-  <a href="mailto:nowgnodeel123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://velog.io/@nowgnodeel123/posts">
-    <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.notion.so/22d2c41c65f1808aaef7cade80995932">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <i>데이터 파이프라인 구축과 PLM 시스템 최적화에 강점을 가진 백엔드 엔지니어</i>
-</div>
+백엔드 엔지니어로서 **데이터 파이프라인 구축**과 **PLM 시스템 최적화**에 집중하고 있습니다.
+AWS 서버리스 아키텍처(Lambda · DynamoDB · S3)를 활용해 대용량 데이터 처리 파이프라인을 설계·운영한 경험이 있으며,
+Siemens Teamcenter AWC 환경에서 선언형 프레임워크(ViewModel JSON / Service JS) 기반의 커스터마이징 개발을 수행했습니다.
+Java / Spring Boot 기반 RESTful API 설계와 운영을 주력으로 하며, 실무 중심의 문제 해결을 지향합니다.
 
 <br/>
 
 ---
 
-## 💡 핵심 성과
-
-| | 영역 | 주요 성과 |
-|:---:|:---|:---|
-| ☁️ | **서버리스 데이터 파이프라인** | AWS Lambda · DynamoDB · S3로 일 **[N]GB** 규모 데이터 처리 파이프라인 구축, 처리 비용 **[N]%** 절감 |
-| 🏭 | **PLM 시스템 커스터마이징** | Teamcenter AWC 선언형 프레임워크(ViewModel JSON / Service JS) 기반, **[N]명** 규모 시스템 개발 · 업무 소요 시간 **[N]%** 단축 |
-| 🔌 | **Backend API 개발** | Java / Spring Boot 기반 RESTful API **[N]개** 이상 설계 및 운영 |
-
-<br/>
-
----
-
-## 🛠 기술 스택
+## 🛠 Tech Stack
 
 <table width="100%">
   <tr>
-    <th align="center" width="33%">코어 &amp; 백엔드</th>
-    <th align="center" width="34%">클라우드 &amp; 데이터베이스</th>
-    <th align="center" width="33%">프론트엔드 &amp; 도구</th>
+    <th align="center" width="33%">Core & Backend</th>
+    <th align="center" width="34%">Cloud & Database</th>
+    <th align="center" width="33%">Frontend & Tools</th>
   </tr>
   <tr>
     <td align="center">
@@ -85,7 +58,7 @@
 
 ---
 
-## 📈 활동
+## 📈 Activity
 
 <div align="center">
   <a href="https://github.com/nowgnodeel123">
@@ -99,4 +72,22 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=90&section=footer" width="100%" />
+---
+
+## 📬 Contact
+
+<a href="mailto:nowgnodeel123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://velog.io/@nowgnodeel123/posts">
+  <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.notion.so/22d2c41c65f1808aaef7cade80995932">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:2a5298&height=90&section=footer" width="100%" />
