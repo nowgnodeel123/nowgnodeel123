@@ -40,21 +40,16 @@
 <br/>
 
 ---
-
 ## 📬 Contact
 
 <div align="center">
-  <a href="mailto:nowgnodeel123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://velog.io/@nowgnodeel123/posts">
-    <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.notion.so/22d2c41c65f1808aaef7cade80995932">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-  </a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-nowgnodeel123%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
+&nbsp;
+[![Velog](https://img.shields.io/badge/Velog-Tech_Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@nowgnodeel123/posts)
+&nbsp;
+[![Notion](https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/22d2c41c65f1808aaef7cade80995932)
+
 </div>
 
 <br/>
