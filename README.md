@@ -4,10 +4,12 @@
 
 ## 👋 About Me
 
-> Siemens Teamcenter AWC 환경에서 선언형 프레임워크(ViewModel JSON / Service JS) 기반 커스터마이징 개발  
-> Java / Spring Boot 기반 RESTful API 설계 및 운영
+백엔드 개발자 이동원입니다.  
+Java / Spring Boot 기반 API 개발을 주로 하며,  
+현재는 Siemens Teamcenter AWC 환경에서 UI 커스터마이징 개발을 하고 있습니다.
 
-![Profile Views](https://komarev.com/ghpvc/?username=nowgnodeel123&style=flat-square&color=2a5298&label=Profile+Views)
+읽기 좋은 코드와 탄탄한 설계에 관심이 많고,  
+꾸준한 학습과 기록을 통해 성장하는 개발자를 목표로 합니다.
 
 <br/>
 
