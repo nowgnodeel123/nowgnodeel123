@@ -7,6 +7,8 @@
 > Siemens Teamcenter AWC 환경에서 선언형 프레임워크(ViewModel JSON / Service JS) 기반 커스터마이징 개발  
 > Java / Spring Boot 기반 RESTful API 설계 및 운영
 
+![Profile Views](https://komarev.com/ghpvc/?username=nowgnodeel123&style=flat-square&color=2a5298&label=Profile+Views)
+
 <br/>
 
 ---
@@ -16,9 +18,9 @@
 | 분야 | 기술 |
 |:---|:---|
 | **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white) |
-| **Cloud** | ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-404040?style=flat-square&logo=next.js&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white) |
+| **Cloud** | ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=Microsoft&logoColor=white) |
 
 <br/>
@@ -29,17 +31,24 @@
 
 <div align="center">
   <a href="https://github.com/nowgnodeel123">
-    <img src="https://github-readme-stats.vercel.app/api?username=nowgnodeel123&show_icons=true&theme=nord&hide_border=true&border_radius=10&rank_icon=github" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nowgnodeel123&show_icons=true&theme=nord&hide_border=true&border_radius=10&rank_icon=github" height="160"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://solved.ac/nowgnodeel369">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nowgnodeel369" height="165"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nowgnodeel369" height="160"/>
   </a>
 </div>
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nowgnodeel123&theme=nord&hide_border=true&area=true&radius=6" width="98%"/>
+</div>
+
+<br/>
+
 ---
+
 ## 📬 Contact
 
 <div align="center">
