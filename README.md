@@ -56,11 +56,11 @@
 
 <div align="center">
   <a href="https://github.com/nowgnodeel123">
-    <img src="https://github-readme-stats.vercel.app/api?username=nowgnodeel123&show_icons=true&theme=nord&hide_border=true&border_radius=10&rank_icon=github&cache_seconds=1800" height="165"/>
+    <img src="./profile/stats.svg" height="165"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/nowgnodeel123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowgnodeel123&layout=compact&theme=nord&hide_border=true&border_radius=10&cache_seconds=1800" height="165"/>
+    <img src="./profile/top-langs.svg" height="165"/>
   </a>
 </div>
 
