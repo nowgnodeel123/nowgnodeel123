@@ -16,18 +16,10 @@
 
 <table>
 <tr>
-<td width="50%">
 
 **🎯 현재 작업**
 Teamcenter AWC ViewModel JSON / Service JS / HTML View 기반 화면 개발 및 Teamcenter SOA API 연동
 
-</td>
-<td width="50%">
-
-**📍 위치 · 관심사**
-울산 기반 · 백엔드 아키텍처, 클라우드, 개인 금융 관리 앱 사이드 프로젝트
-
-</td>
 </tr>
 </table>
 
