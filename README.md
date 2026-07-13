@@ -1,28 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:4776E6&height=220&section=header&text=Hi%2C%20I'm%20Dongwon%20Lee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%2F%20Spring%20Boot&descAlignY=55&descSize=18&fontAlign=50" width="100%" />
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=560&lines=Java+%2F+Spring+Boot+%EA%B8%B0%EB%B0%98+API+%EA%B0%9C%EB%B0%9C%EC%9E%90;Siemens+Teamcenter+AWC+UI+%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95;%EA%BE%B8%EC%A4%80%ED%9E%88+%EA%B8%B0%EB%A1%9D%ED%95%98%EA%B3%A0+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90)](https://git.io/typing-svg)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:4776E6&height=220&section=header&text=Hi%2C%20I'm%20Dongwon%20Lee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer&descAlignY=55&descSize=18&fontAlign=50" width="100%" />
 
 <br/>
 
 ## 👋 About Me
-
 > 백엔드 개발자 **이동원**입니다.
-> Java / Spring Boot 기반 API 개발을 주로 하며, 현재는 **Siemens Teamcenter Active Workspace(AWC)** 환경에서 UI 커스터마이징 개발을 진행하고 있습니다.
-> 꾸준한 학습과 기록을 통해 성장하는 개발자를 목표로 합니다.
+> Java / Spring Boot 기반 API 개발을 주로 하며, 현재는 **Siemens Teamcenter Active Workspace(AWC)** 환경에서 ViewModel JSON / Service JS / HTML View 기반 UI 커스터마이징과 Teamcenter SOA API 연동 개발을 진행하고 있습니다.
+>
+> Java 개발자 양성 과정을 수료한 뒤 실무에 투입되어 약 1년간 SI 프로젝트 경험을 쌓았고, 인턴에서 정규직으로 전환되며 실무 역량을 키워왔습니다.
+> 새로운 기술과 도메인을 빠르게 학습하고, 배운 내용을 꾸준히 기록하며 성장하는 개발자가 되는 것을 목표로 하고 있습니다.
 
 <table>
 <tr>
+<td>
 
 **🎯 현재 작업**
 Teamcenter AWC ViewModel JSON / Service JS / HTML View 기반 화면 개발 및 Teamcenter SOA API 연동
 
+**🌱 관심 분야**
+백엔드 아키텍처 설계, 클라우드 인프라(AWS), 꾸준한 알고리즘 학습(백준)
+
+</td>
 </tr>
 </table>
-
 <br/>
 
 ---
@@ -64,7 +63,6 @@ Teamcenter AWC ViewModel JSON / Service JS / HTML View 기반 화면 개발 및 
 <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=Microsoft&logoColor=white"/>
 </p>
-
 <br/>
 
 ---
@@ -73,11 +71,11 @@ Teamcenter AWC ViewModel JSON / Service JS / HTML View 기반 화면 개발 및 
 
 <div align="center">
   <a href="https://github.com/nowgnodeel123">
-    <img src="https://github-readme-stats.vercel.app/api?username=nowgnodeel123&show_icons=true&theme=nord&hide_border=true&border_radius=10&rank_icon=github" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nowgnodeel123&show_icons=true&theme=nord&hide_border=true&border_radius=10&rank_icon=github&cache_seconds=1800" height="165"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/nowgnodeel123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowgnodeel123&layout=compact&theme=nord&hide_border=true&border_radius=10" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowgnodeel123&layout=compact&theme=nord&hide_border=true&border_radius=10&cache_seconds=1800" height="165"/>
   </a>
 </div>
 
@@ -86,19 +84,16 @@ Teamcenter AWC ViewModel JSON / Service JS / HTML View 기반 화면 개발 및 
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nowgnodeel369" height="160"/>
   </a>
 </div>
-
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nowgnodeel123&theme=nord&hide_border=true&area=true&radius=6" width="98%"/>
 </div>
-
 <br/>
 
 ---
 
 ## 📬 Contact
-
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-nowgnodeel123%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
