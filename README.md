@@ -1,6 +1,6 @@
 <div align="center">
 
-# 이동원 · Dongwon Lee
+### 이동원 · Dongwon Lee
 
 ### **Java · Spring Boot 백엔드 개발자**
 
