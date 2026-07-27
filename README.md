@@ -11,6 +11,8 @@
 [![solved.ac](https://img.shields.io/badge/solved.ac-3B82F6?style=flat-square&logo=leetcode&logoColor=white)](https://solved.ac/profile/nowgnodeel369)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
 
+</div>
+
 ## 소개
 
 Java와 Spring Boot로 API를 만드는 백엔드 개발자입니다. 실무 1년차입니다.
