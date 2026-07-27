@@ -1,8 +1,10 @@
 <div align="center">
 
-# 이동원
+### 이동원 · Dongwon Lee
 
-**Java · Spring Boot 백엔드 개발자** &nbsp;Siemens Teamcenter AWC 환경에서 화면 커스터마이징과 SOA API 연동을 합니다.
+**Java · Spring Boot 백엔드 개발자**
+
+Siemens Teamcenter AWC 환경에서 화면 커스터마이징과 SOA API 연동을 합니다.
 
 [![Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@nowgnodeel123/posts)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/22d2c41c65f1808aaef7cade80995932)
@@ -11,9 +13,9 @@
 
 </div>
 
----
+## 경력
 
-## 지금 하는 일
+**2025 ~ 현재** · SI 프로젝트 백엔드 (인턴 → 정규직 전환)
 
 Siemens Teamcenter Active Workspace 화면 개발과 SOA API 연동을 담당합니다.
 
@@ -21,7 +23,7 @@ Siemens Teamcenter Active Workspace 화면 개발과 SOA API 연동을 담당합
 - 레퍼런스가 거의 없는 스택이라 공식 문서와 기존 코드로 동작을 역추적
 - 알아낸 것들은 블로그에 정리
 
----
+**2024** · 메가존클라우드 Java 기반 SaaS 개발자 양성 과정 수료
 
 ## 프로젝트
 
@@ -51,8 +53,6 @@ Siemens Teamcenter Active Workspace 화면 개발과 SOA API 연동을 담당합
 
 [서버](https://github.com/AhHimMoYak/lms_be) · [웹](https://github.com/AhHimMoYak/lms_fe) · [시연 영상](https://youtu.be/5h6VI5sSYKE)
 
----
-
 ## 기술
 
 | | |
@@ -62,7 +62,6 @@ Siemens Teamcenter Active Workspace 화면 개발과 SOA API 연동을 담당합
 | **Database** | <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/> |
 | **Cloud** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/> |
 | **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> |
-
 | **Domain** | <img src="https://img.shields.io/badge/Siemens_Teamcenter-009999?style=flat-square&logo=siemens&logoColor=white"/> |
 
 실무에서 매일 쓰는 것은 **Java · JavaScript · Oracle**입니다.
