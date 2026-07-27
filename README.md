@@ -1,6 +1,6 @@
 <div align="center">
 
-### 이동원 · Dongwon Lee
+# 👨‍💻 이동원 · Dongwon Lee
 
 **Java · Spring Boot 백엔드 개발자**
 
@@ -9,7 +9,7 @@
 [![solved.ac](https://img.shields.io/badge/solved.ac-3B82F6?style=flat-square&logo=leetcode&logoColor=white)](https://solved.ac/profile/nowgnodeel369)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
 
-</div>
+<br/>
 
 ## 소개
 
