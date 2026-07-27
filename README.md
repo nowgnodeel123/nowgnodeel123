@@ -1,6 +1,6 @@
 <div align="center">
 
-### 이동원 · Dongwon Lee
+# 이동원 · Dongwon Lee
 
 **Java · Spring Boot 백엔드 개발자**
 
@@ -10,6 +10,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
 
 </div>
+
+## 소개
 
 Java와 Spring Boot로 API를 만드는 백엔드 개발자입니다. 실무 1년차입니다.
 
@@ -67,5 +69,3 @@ Teamcenter Active Workspace 화면 개발, SOA API 연동
 | **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> |
 | **Domain** | <img src="https://img.shields.io/badge/Siemens_Teamcenter-009999?style=flat-square&logo=siemens&logoColor=white"/> |
 
-실무에서 매일 쓰는 것은 Java · JavaScript · Oracle입니다.
-Spring Boot · PostgreSQL · Next.js는 개인 프로젝트에서, AWS 서버리스는 팀 프로젝트에서 사용했습니다.
