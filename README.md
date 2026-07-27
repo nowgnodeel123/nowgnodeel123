@@ -1,73 +1,91 @@
-<div align="center">
-
-### 👨‍💻 이동원 · Dongwon Lee
-
-**Java · Spring Boot 백엔드 개발자**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:4776E6&height=220&section=header&text=Hi%2C%20I'm%20Dongwon%20Lee&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer&descAlignY=55&descSize=18&fontAlign=50" width="100%" />
 
 <br/>
 
-[![Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@nowgnodeel123/posts)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/22d2c41c65f1808aaef7cade80995932)
-[![solved.ac](https://img.shields.io/badge/solved.ac-3B82F6?style=flat-square&logo=leetcode&logoColor=white)](https://solved.ac/profile/nowgnodeel369)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
+## 👋 About Me
+> 백엔드 개발자 **이동원**입니다.
+> Java / Spring Boot 기반 API 개발을 주로 하며, 현재는 **Siemens Teamcenter Active Workspace(AWC)** 환경에서 ViewModel JSON / Service JS / HTML View 기반 UI 커스터마이징과 Teamcenter SOA API 연동 개발을 진행하고 있습니다.
+>
+> Java 개발자 양성 과정을 수료한 뒤 실무에 투입되어 약 1년간 SI 프로젝트 경험을 쌓았고, 인턴에서 정규직으로 전환되며 실무 역량을 키워왔습니다.
+> 새로운 기술과 도메인을 빠르게 학습하고, 배운 내용을 꾸준히 기록하며 성장하는 개발자가 되는 것을 목표로 하고 있습니다.
+
+---
+
+**Backend**
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+</p>
+
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-404040?style=flat-square&logo=next.js&logoColor=white"/>
+</p>
+
+**Database**
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+</p>
+
+**Cloud**
+<p>
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"/>
+</p>
+
+**Tools**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=Microsoft&logoColor=white"/>
+</p>
+
+<br/>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+  <a href="https://github.com/nowgnodeel123">
+    <img src="https://github-readme-stats.vercel.app/api?username=nowgnodeel123&show_icons=true&theme=nord&hide_border=true&border_radius=10&rank_icon=github&cache_seconds=1800" height="165"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/nowgnodeel123">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowgnodeel123&layout=compact&theme=nord&hide_border=true&border_radius=10&cache_seconds=1800" height="165"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://solved.ac/nowgnodeel369">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nowgnodeel369" height="160"/>
+  </a>
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nowgnodeel123&theme=nord&hide_border=true&area=true&radius=6" width="98%"/>
+</div>
+<br/>
+
+---
+
+## 📬 Contact
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-nowgnodeel123%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
+&nbsp;
+[![Velog](https://img.shields.io/badge/Velog-Tech_Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@nowgnodeel123/posts)
+&nbsp;
+[![Notion](https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/22d2c41c65f1808aaef7cade80995932)
 
 </div>
 
-## 소개
-
-Java와 Spring Boot로 API를 만드는 백엔드 개발자입니다. 실무 1년차입니다.
-
-현재 **Siemens Teamcenter Active Workspace** 화면 개발과 SOA API 연동을 담당하고 있습니다.
-Teamcenter는 제조 기업이 설계 도면과 부품 정보를 관리하는 PLM 시스템입니다.
-공개된 자료가 적어, 공식 문서와 기존 코드를 읽어 동작을 파악하는 방식으로 일합니다.
-
-## 프로젝트
-
-### 네스트 (Nest)
-
-은퇴 가능 나이를 역산해서 알려주는 재무 앱 · 개인 · 개발 중
-
-- 은퇴 나이를 입력받지 않고, 후보 나이를 한 살씩 올려 90세까지 버티는 가장 이른 나이를 계산
-- 주식·코인은 잔고를 저장하지 않고 매매 히스토리에서 조회 시점에 파생 계산
-- 시세·환율을 외부 API 네 곳에서 수집, 일부 실패해도 나머지 화면은 정상 렌더
-- Flyway로 스키마 버전 관리, `ddl-auto: validate`로 고정
-- 명목·실질 혼용 문제 해결: 목표 생활비는 명목, 자산 수익률은 실질이라 단위가 어긋나
-  부족분 계산이 무효화됨 → 전 계산을 명목 기준으로 통일
-
-`Java 21` `Spring Boot 3.4` `PostgreSQL 16` `Flyway` `Next.js` `TypeScript` `Railway` `Vercel`
-
-[서버](https://github.com/nowgnodeel123/retirement-planner) · [웹](https://github.com/nowgnodeel123/retirement-planner-web)
-
-### 아힘모약 (AhHimMoYak)
-
-기업 직무교육 LMS·CMS 플랫폼 · 7인 팀 · 2024.10~12 · Dev-ton 아이디어상
-
-- 코스·커리큘럼·수강신청 도메인 담당 — 훈련기관이 과정을 열고 수강생을 받는 흐름
-- 시험 기능을 Spring Boot에서 Lambda 6종 + DynamoDB로 이관, `serverless.yml` 작성 및 배포
-- `Contract` 엔티티에 "교육 과정"과 "그 과정의 개설 건"이 섞여 수강신청 로직이 꼬여
-  `CourseProvide`로 분리
-
-`Spring Boot` `AWS Lambda` `API Gateway` `DynamoDB` `MySQL` `Serverless Framework`
-
-[서버](https://github.com/AhHimMoYak/lms_be) · [웹](https://github.com/AhHimMoYak/lms_fe) · [시연 영상](https://youtu.be/5h6VI5sSYKE)
-
-## 경력
-
-**2025 ~ 현재** · SI 프로젝트 백엔드 (인턴 → 정규직 전환)
-Teamcenter Active Workspace 화면 개발, SOA API 연동
-
-**2024** · 메가존클라우드 Java 기반 SaaS 개발자 양성 과정 수료
-
-**동서대학교** 소프트웨어학과 졸업
-
-## 기술
-
-| | |
-| :--- | :--- |
-| **Backend** | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white"/> |
-| **Frontend** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> |
-| **Database** | <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/> |
-| **Cloud** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> |
-| **Domain** | <img src="https://img.shields.io/badge/Siemens_Teamcenter-009999?style=flat-square&logo=siemens&logoColor=white"/> |
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:4776E6&height=100&section=footer" width="100%" />
