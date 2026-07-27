@@ -2,7 +2,7 @@
 
 ### 이동원 · Dongwon Lee
 
-### **Java · Spring Boot 백엔드 개발자**
+**Java · Spring Boot 백엔드 개발자**
 
 [![Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@nowgnodeel123/posts)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/22d2c41c65f1808aaef7cade80995932)
