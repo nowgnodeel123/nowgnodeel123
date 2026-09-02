@@ -9,7 +9,8 @@
 ---
 
 Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업무를 하고 있습니다.
-동시에 앞으로의 개발이 AI 중심으로 바뀔 것이라 보고, Claude Code 같은 AI 에이전트를 사이드 프로젝트에 직접 적용해보면서 AI를 활용한 개발 방식을 공부하고 있습니다. 프롬프트 엔지니어링부터 RAG, MCP·A2A·ACP 같은 에이전트 간 연동 프로토콜, 그리고 여러 에이전트를 조합하는 오케스트레이션까지 Agentic AI 전반을 폭넓게 익혀가는 중입니다.
+
+앞으로의 개발은 AI 중심으로 바뀔 거라 보고, Claude Code 같은 AI 에이전트를 사이드 프로젝트에 직접 적용해보고 있습니다. 프롬프트 설계, 에이전트 간 연동(MCP·A2A·ACP), 멀티 에이전트 오케스트레이션까지 Agentic AI를 실전 위주로 익혀가는 중입니다.
 
 ## Projects
 - **[네스트 (Nest)](https://github.com/nowgnodeel123/retirement-planner)** — 보유 자산으로 은퇴 가능 나이를 역산하는 자산관리 앱
