@@ -1,8 +1,5 @@
 # 이동원 (Dongwon Lee)
 
-> 한 회사에서 Teamcenter 버전 하나만 다루는 팀이 대부분입니다.
-> 저는 여러 버전이 동시에 굴러가는 환경에서, 그 사이를 메꾸는 일을 합니다.
-
 **Software Engineer** · AI · Teamcenter
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
@@ -12,6 +9,7 @@
 ---
 
 Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업무를 하고 있습니다.
+동시에 앞으로의 개발이 AI 중심으로 바뀔 것이라 보고, Claude Code 같은 AI 에이전트를 사이드 프로젝트에 직접 적용해보면서 AI를 활용한 개발 방식을 공부하고 있습니다.
 
 ## Tech Stack
 | 구분 | 기술 |
