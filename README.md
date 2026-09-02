@@ -9,7 +9,11 @@
 ---
 
 Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업무를 하고 있습니다.
-동시에 앞으로의 개발이 AI 중심으로 바뀔 것이라 보고, Claude Code 같은 AI 에이전트를 사이드 프로젝트에 직접 적용해보면서 AI를 활용한 개발 방식을 공부하고 있습니다.
+동시에 앞으로의 개발이 AI 중심으로 바뀔 것이라 보고, Claude Code 같은 AI 에이전트를 사이드 프로젝트에 직접 적용해보면서 AI를 활용한 개발 방식을 공부하고 있습니다. 프롬프트 엔지니어링부터 RAG, MCP·A2A·ACP 같은 에이전트 간 연동 프로토콜, 그리고 여러 에이전트를 조합하는 오케스트레이션까지 Agentic AI 전반을 폭넓게 익혀가는 중입니다.
+
+## Projects
+- **[네스트 (Nest)](https://github.com/nowgnodeel123/retirement-planner)** — 보유 자산으로 은퇴 가능 나이를 역산하는 자산관리 앱
+- **[아힘모약](https://github.com/AhHimMoYak/lms_be)** — 기업 대상 직무교육 LMS, 이벤트 기반 MSA
 
 ## Tech Stack
 | 구분 | 기술 |
@@ -20,7 +24,3 @@ Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업
 | **Cloud** | ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white) |
 | **PLM** | ![Teamcenter AWC](https://img.shields.io/badge/Teamcenter_AWC-009999?style=flat-square&logo=siemens&logoColor=white) ![SOA API](https://img.shields.io/badge/SOA_API-006E6E?style=flat-square) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
-
-## Projects
-- **[네스트 (Nest)](https://github.com/nowgnodeel123/retirement-planner)** — 보유 자산으로 은퇴 가능 나이를 역산하는 자산관리 앱
-- **[아힘모약](https://github.com/AhHimMoYak/lms_be)** — 기업 대상 직무교육 LMS, 이벤트 기반 MSA
