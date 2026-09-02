@@ -11,7 +11,7 @@
 
 ---
 
-Java / Spring Boot로 API를 개발하며, Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업무를 하고 있습니다.
+Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업무를 하고 있습니다.
 AI 기반 개발 방식에 관심을 두고 agentic AI, AI 오케스트레이션 워크플로우를 사이드 프로젝트에 적용해보며 공부 중입니다.
 
 ## Tech Stack
