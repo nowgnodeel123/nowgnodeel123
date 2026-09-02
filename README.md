@@ -29,4 +29,4 @@ AI 기반 개발 방식에 관심을 두고 agentic AI, AI 오케스트레이션
 
 ---
 
-<div align="center">더 자세한 내용은 <a href="https://www.notion.so/22d2c41c65f1808aaef7cade80995932">포트폴리오</a> · <a href="https://velog.io/@nowgnodeel123/posts">Velog</a> 참고</div>
+<div align="center">더 자세한 내용은 <a href="https://www.notion.so/22d2c41c65f1808aaef7cade80995932">포트폴리오</a> · <a href="https://velog.io/@nowgnodeel123/posts">Velog</a> 를 참고해주세요.</div>
