@@ -1,6 +1,6 @@
 # 이동원 (Dongwon Lee)
 
-<sub>**Software Engineer** · AI · Teamcenter</sub>
+**Software Engineer** · AI · Teamcenter
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@nowgnodeel123/posts)
