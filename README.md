@@ -10,7 +10,7 @@
 
 Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업무를 하고 있습니다.
 
-앞으로의 개발은 AI 중심으로 바뀔 거라 보고, Claude Code 같은 AI 에이전트를 사이드 프로젝트에 직접 적용해보고 있습니다. 프롬프트 설계, 에이전트 간 연동(MCP·A2A·ACP), 멀티 에이전트 오케스트레이션까지 Agentic AI를 실전 위주로 익혀가는 중입니다.
+앞으로의 개발은 AI 중심으로 바뀔 거라 보고, Claude Code 같은 AI 에이전트를 사이드 프로젝트에 직접 적용해보고 있습니다. 프롬프트 설계, 에이전트 간 연동(MCP·A2A), 멀티 에이전트 오케스트레이션까지 Agentic AI를 실전 위주로 익혀가는 중입니다.
 
 ## Projects
 
