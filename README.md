@@ -2,7 +2,7 @@
 
 # 이동원 &nbsp;·&nbsp; Dongwon Lee
 
-**Software Engineer** | Java · Spring Boot · Teamcenter AWC
+**Software Engineer** &nbsp;|&nbsp; Java · Spring Boot · Teamcenter AWC
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@nowgnodeel123/posts)
@@ -15,6 +15,7 @@
 ## About
 
 Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업무를 하고 있습니다.
+선언형 프레임워크 기반으로 ViewModel과 Service 로직을 작성하며, 백엔드는 Java · Spring Boot를 주로 다룹니다.
 
 개인 프로젝트 **네스트**는 요구사항 분석부터 설계 · 개발 · QA · 배포까지 전 단계를 Claude Code로 진행하고 있습니다.
 각 단계에 역할과 지침을 정의한 워크플로우를 직접 설계해서, AI를 코드 생성 도구가 아니라 개발 프로세스 그 자체로 다루는 방식을 실험 중입니다.
