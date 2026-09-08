@@ -1,5 +1,5 @@
 # 이동원 (Dongwon Lee)
-**Software Engineer** · Java/Spring · Next.js · Teamcenter
+**Software Engineer** · Java/Spring Boot · Teamcenter
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@nowgnodeel123/posts)
@@ -14,7 +14,7 @@ Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업
 ## Projects
 
 - **[네스트 (Nest)](https://github.com/nowgnodeel123/retirement-planner)** — 보유 자산으로 은퇴 가능 나이를 역산하는 자산관리 앱
-  1인 개발 · [시뮬레이션 로직 한 줄] · AI 에이전트 기반 개발 워크플로우 적용 · Oracle Cloud + Vercel 배포
+1인 개발 · 도메인 설계와 은퇴 시뮬레이션 계산 로직 직접 설계, 구현은 AI 에이전트 워크플로우로 진행 · Oracle Cloud + Vercel 배포
 - **[아힘모약](https://github.com/AhHimMoYak/lms_be)** — 기업 대상 직무교육 LMS
   [맡은 역할] · 이벤트 기반 MSA 설계 · BDIA Dev-ton 아이디어상 수상
 
@@ -22,9 +22,8 @@ Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업
 
 | 구분 | 기술 |
 | :--- | :--- |
-| **Language** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Framework** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-2C2C2C?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Language** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white) |
+| **Framework** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
 | **Database** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Cloud** | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-C74634?style=flat-square&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **AI** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) |
 | **PLM** | ![Teamcenter AWC](https://img.shields.io/badge/Teamcenter_AWC-009999?style=flat-square&logo=siemens&logoColor=white) ![SOA API](https://img.shields.io/badge/SOA_API-006E6E?style=flat-square) |
