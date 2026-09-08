@@ -15,7 +15,7 @@ Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업
 ## Projects
 
 - **[네스트 (Nest)](https://github.com/nowgnodeel123/retirement-planner)** — 보유 자산으로 은퇴 가능 나이를 역산하는 자산관리 앱 · Oracle Cloud + Vercel 배포
-- **[아힘모약](https://github.com/AhHimMoYak/lms_be)** — 기업 대상 직무교육 LMS, 이벤트 기반 MSA
+- **[아힘모약](https://github.com/AhHimMoYak/lms_be)** — 기업 대상 직무교육 LMS, 이벤트 기반 MSA · BDIA Dev-ton 아이디어상 수상
 
 ## Tech Stack
 
