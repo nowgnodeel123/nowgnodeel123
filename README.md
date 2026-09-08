@@ -29,7 +29,7 @@ Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업
 
 - 1인 개발 — 도메인 설계와 은퇴 시뮬레이션 계산 로직 직접 설계
 - 구현은 AI 에이전트 워크플로우로 진행
-- `Spring Boot` `Next.js` `PostgreSQL` · Oracle Cloud + Vercel 배포
+- `Spring Boot` `PostgreSQL` `Next.js` · Oracle Cloud + Vercel 배포
 
 ### 아힘모약 &nbsp;·&nbsp; [repository →](https://github.com/AhHimMoYak/lms_be)
 
@@ -37,7 +37,7 @@ Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업
 
 - 2024 부산디지털혁신아카데미 Dev-ton **아이디어상** 수상
 - AWS 서버리스 기반 이벤트 드리븐 MSA
-- `Spring Boot` `AWS Lambda` `S3` `API Gateway` `DynamoDB`
+- `Spring Boot` `AWS Lambda` `S3` `API Gateway`
 
 <br>
 
@@ -48,5 +48,5 @@ Teamcenter Active Workspace(AWC) 화면 커스터마이징과 SOA API 연동 업
 | **Language** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white) |
 | **Framework** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
 | **Database** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Cloud** | ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-C74634?style=flat-square&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **Deployment** | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-C74634?style=flat-square&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 | **PLM** | ![Teamcenter AWC](https://img.shields.io/badge/Teamcenter_AWC-009999?style=flat-square&logo=siemens&logoColor=white) ![SOA API](https://img.shields.io/badge/SOA_API-006E6E?style=flat-square) |
