@@ -2,9 +2,7 @@
 
 # 이동원 &nbsp;·&nbsp; Dongwon Lee
 
-**Software Engineer** &nbsp;·&nbsp; Teamcenter PLM / Backend
-
-Teamcenter PLM 1년차
+**Software Engineer** &nbsp;·&nbsp; Teamcenter PLM(1년차) / Backend
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@nowgnodeel123/posts)
