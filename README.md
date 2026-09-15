@@ -11,8 +11,6 @@
 
 <br>
 
-![](https://capsule-render.vercel.app/api?type=rect&height=3&color=6e7681&section=header)
-
 ## 🧭 About
 
 사내 시스템 너머의 서비스를 만들고 싶어 개인 프로젝트를 이어가는 중입니다.
@@ -20,8 +18,6 @@
 설계와 판단은 직접 하고, 구현은 AI 에이전트에 역할을 나눠 맡기는 방식으로 혼자 제품을 완성하고 있습니다.
 
 <br>
-
-![](https://capsule-render.vercel.app/api?type=rect&height=3&color=6e7681&section=header)
 
 ## 🗂 Projects
 
@@ -40,7 +36,7 @@
 
 `Java 21` `Spring Boot 3` `PostgreSQL` `Next.js` `TypeScript` `Oracle Cloud` `Vercel`
 
----
+<br>
 
 ### 아힘모약 (AhHimMoYak)
 
@@ -56,7 +52,7 @@
 
 `Spring Boot` `JPA` `React` `AWS Lambda` `DynamoDB`
 
----
+<br>
 
 ### Blinking Eyes
 
@@ -68,6 +64,4 @@
 
 - 「눈 깜빡임 인식 기반 디바이스 조절 모듈」 특허 출원 — `10-2024-0172645`
 - 교내 연구회 후속 팀 결성으로 이어짐, 공동발명자 5인 중 1인
-- 2024.11.27 · 출원인 동서대학교 산학협력단
-
-`Android(Java)` `C++ NDK/JNI` `OpenCV`
+- 2024.11.27 · 출원인
