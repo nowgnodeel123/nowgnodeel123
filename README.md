@@ -1,12 +1,20 @@
-# 이동원 · Dongwon Lee
+<div align="center">
 
-**Software Engineer** · Teamcenter PLM / Backend
+# 이동원 &nbsp;·&nbsp; Dongwon Lee
 
-Teamcenter PLM 1년차. 사내 시스템 너머의 서비스를 만들고 싶어 개인 프로젝트를 이어가는 중입니다.<br>
-설계와 판단은 직접 하고, 구현은 AI 에이전트에 역할을 나눠 맡기는 방식으로 혼자 제품을 완성합니다.
+**Software Engineer** &nbsp;·&nbsp; Teamcenter PLM / Backend
+
+Teamcenter PLM 1년차 &nbsp;|&nbsp; Ulsan, KR
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nowgnodeel123@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@nowgnodeel123/posts)
+
+</div>
+
+<br>
+
+사내 시스템 너머의 서비스를 만들고 싶어 개인 프로젝트를 이어가는 중입니다.<br>
+설계와 판단은 직접 하고, 구현은 AI 에이전트에 역할을 나눠 맡기는 방식으로 혼자 제품을 완성합니다.
 
 <br>
 
@@ -21,7 +29,7 @@ Teamcenter PLM 1년차. 사내 시스템 너머의 서비스를 만들고 싶어
 [**데모 →**](https://nest-rho-six.vercel.app/) &nbsp;·&nbsp; [backend](https://github.com/nowgnodeel123/retirement-planner) &nbsp;·&nbsp; [frontend](https://github.com/nowgnodeel123/retirement-planner-web)
 
 <sub>1인 개발 · 진행중</sub><br>
-<sub>`Java 21` `Spring Boot 3` `PostgreSQL` `Next.js` `TypeScript` · Oracle Cloud + Vercel</sub>
+<sub>Java 21 · Spring Boot 3 · PostgreSQL · Next.js · TypeScript · Oracle Cloud + Vercel</sub>
 
 &nbsp;
 
@@ -46,7 +54,7 @@ Teamcenter PLM 1년차. 사내 시스템 너머의 서비스를 만들고 싶어
 [backend](https://github.com/AhHimMoYak/lms_be) &nbsp;·&nbsp; [frontend](https://github.com/AhHimMoYak/lms_fe)
 
 <sub>팀 6인 · 2024 Dev-ton 아이디어상</sub><br>
-<sub>`Spring Boot` `JPA` `React` `AWS Lambda` `DynamoDB`</sub>
+<sub>Spring Boot · JPA · React · AWS Lambda · DynamoDB</sub>
 
 &nbsp;
 
@@ -65,7 +73,7 @@ Teamcenter PLM 1년차. 사내 시스템 너머의 서비스를 만들고 싶어
 [repository →](https://github.com/nowgnodeel123/CapstoneDesign)
 
 <sub>개인 졸업작품</sub><br>
-<sub>`Android(Java)` `C++ NDK/JNI` `OpenCV`</sub>
+<sub>Android(Java) · C++ NDK/JNI · OpenCV</sub>
 
 &nbsp;
 
