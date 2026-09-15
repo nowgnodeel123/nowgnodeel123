@@ -11,6 +11,8 @@
 
 <br>
 
+![](https://capsule-render.vercel.app/api?type=rect&height=3&color=6e7681&section=header)
+
 ## 🧭 About
 
 사내 시스템 너머의 서비스를 만들고 싶어 개인 프로젝트를 이어가는 중입니다.
@@ -19,7 +21,7 @@
 
 <br>
 
-![](https://capsule-render.vercel.app/api?type=rect&height=3&color=24292f&section=header)
+![](https://capsule-render.vercel.app/api?type=rect&height=3&color=6e7681&section=header)
 
 ## 🗂 Projects
 
@@ -38,9 +40,7 @@
 
 `Java 21` `Spring Boot 3` `PostgreSQL` `Next.js` `TypeScript` `Oracle Cloud` `Vercel`
 
-<br>
-
-![](https://capsule-render.vercel.app/api?type=rect&height=3&color=24292f&section=header)
+---
 
 ### 아힘모약 (AhHimMoYak)
 
@@ -56,9 +56,7 @@
 
 `Spring Boot` `JPA` `React` `AWS Lambda` `DynamoDB`
 
-<br>
-
-![](https://capsule-render.vercel.app/api?type=rect&height=3&color=24292f&section=header)
+---
 
 ### Blinking Eyes
 
