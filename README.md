@@ -19,6 +19,8 @@
 
 <br>
 
+![](https://capsule-render.vercel.app/api?type=rect&height=3&color=24292f&section=header)
+
 ## 🗂 Projects
 
 ### 네스트 (Nest)
@@ -28,14 +30,17 @@
 **[데모 →](https://nest-rho-six.vercel.app/)** &nbsp;·&nbsp; [backend](https://github.com/nowgnodeel123/retirement-planner) &nbsp;·&nbsp; [frontend](https://github.com/nowgnodeel123/retirement-planner-web)
 
 > 1인 개발 · 진행중
-> `Java 21` `Spring Boot 3` `PostgreSQL` `Next.js` `TypeScript` `Oracle Cloud` `Vercel`
 
 - 은퇴 시점 계산 로직 직접 설계 — 몬테카를로 1,000회 시행으로 성공률 산출
 - 외부 시세 API 서킷브레이커 + DB 스냅샷 2단 폴백
 - PII AES-256-GCM 암호화, OAuth2 · JWT 토큰 회전
-- AI 에이전트에 단계별 역할 부여 후 산출물을 다음 단계로 전달하는 방식으로 개발, 컨텍스트 주입은 MCP 활용
+- 분석 · 설계 · 구현 단계마다 AI 에이전트에 역할을 부여하고, 산출물을 다음 단계로 넘기는 방식으로 개발
+
+`Java 21` `Spring Boot 3` `PostgreSQL` `Next.js` `TypeScript` `Oracle Cloud` `Vercel`
 
 <br>
+
+![](https://capsule-render.vercel.app/api?type=rect&height=3&color=24292f&section=header)
 
 ### 아힘모약 (AhHimMoYak)
 
@@ -44,13 +49,16 @@
 [backend](https://github.com/AhHimMoYak/lms_be) &nbsp;·&nbsp; [frontend](https://github.com/AhHimMoYak/lms_fe)
 
 > 팀 6인 · 2024 Dev-ton 아이디어상
-> `Spring Boot` `JPA` `React` `AWS Lambda` `DynamoDB`
 
 - 코스 · 커리큘럼 · 수강신청 도메인 API 개발
 - 강사용 관리 화면 및 라우팅 구현
 - 시험 · 퀴즈 서비스 AWS Lambda 이관 — 핸들러 13개, `serverless.yml` 작성
 
+`Spring Boot` `JPA` `React` `AWS Lambda` `DynamoDB`
+
 <br>
+
+![](https://capsule-render.vercel.app/api?type=rect&height=3&color=24292f&section=header)
 
 ### Blinking Eyes
 
@@ -59,8 +67,9 @@
 [repository →](https://github.com/nowgnodeel123/CapstoneDesign)
 
 > 개인 졸업작품
-> `Android(Java)` `C++ NDK/JNI` `OpenCV`
 
 - 「눈 깜빡임 인식 기반 디바이스 조절 모듈」 특허 출원 — `10-2024-0172645`
 - 교내 연구회 후속 팀 결성으로 이어짐, 공동발명자 5인 중 1인
 - 2024.11.27 · 출원인 동서대학교 산학협력단
+
+`Android(Java)` `C++ NDK/JNI` `OpenCV`
