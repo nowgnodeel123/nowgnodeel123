@@ -23,16 +23,16 @@
 
 ### 네스트 (Nest)
 
-**보유 자산으로 은퇴 가능 나이를 역산하는 자산관리 웹앱**
+보유 자산으로 은퇴 가능 나이를 역산하는 자산관리 웹앱
 
-**[데모 →](https://nest-rho-six.vercel.app/)** &nbsp;·&nbsp; [backend](https://github.com/nowgnodeel123/retirement-planner) &nbsp;·&nbsp; [frontend](https://github.com/nowgnodeel123/retirement-planner-web)
+**[데모 →](https://nest-rho-six.vercel.app/)** &nbsp;·&nbsp; [backend](...) &nbsp;·&nbsp; [frontend](...)
 
 > 1인 개발 · 진행중
 
-- 은퇴 시점 계산 로직 직접 설계 — 몬테카를로 1,000회 시행으로 성공률 산출
-- 외부 시세 API 서킷브레이커 + DB 스냅샷 2단 폴백
-- PII AES-256-GCM 암호화, OAuth2 · JWT 토큰 회전
-- 분석 · 설계 · 구현 단계마다 AI 에이전트에 역할을 부여하고, 산출물을 다음 단계로 넘기는 방식으로 개발
+- 단일 수익률 계산은 "운 좋으면 가능"일 뿐 → 몬테카를로 1,000회로 성공 **확률**을 산출
+- 외부 시세 API가 죽으면 전체가 멈추는 구조 → 서킷브레이커 + DB 스냅샷 2단 폴백
+- 자산·소득은 유출되면 되돌릴 수 없는 데이터 → PII AES-256-GCM 암호화, JWT 토큰 회전
+- 한 번에 시키면 설계가 무너져서, 분석·설계·구현 단계를 쪼개고 AI 에이전트에 역할을 나눠 진행
 
 `Java 21` `Spring Boot 3` `PostgreSQL` `Next.js` `TypeScript` `Oracle Cloud` `Vercel`
 
