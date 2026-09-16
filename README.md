@@ -25,7 +25,7 @@
 
 보유 자산으로 은퇴 가능 나이를 역산하는 자산관리 웹앱
 
-**[데모 →](https://nest-rho-six.vercel.app/)** &nbsp;·&nbsp; [backend](...) &nbsp;·&nbsp; [frontend](...)
+**[링크 →](https://ldw-nest.vercel.app/)** &nbsp;·&nbsp; [backend](https://github.com/nowgnodeel123/retirement-planner) &nbsp;·&nbsp; [frontend](https://github.com/nowgnodeel123/retirement-planner-web)
 
 > 1인 개발 · 진행중
 
@@ -34,7 +34,7 @@
 - 자산·소득은 유출되면 되돌릴 수 없는 데이터 → PII AES-256-GCM 암호화, JWT 토큰 회전
 - 계획 · 분석 · 설계 · 구현 · QA로 단계를 쪼개고 AI 에이전트에 역할을 나눠 진행
 
-`Java 21` `Spring Boot 3` `PostgreSQL` `Next.js` `TypeScript` `Oracle Cloud` `Vercel`
+`Java 21` `Spring Boot 3` `PostgreSQL` `Next.js` `TypeScript` `Railway` `Vercel`
 
 <br>
 
@@ -64,4 +64,4 @@
 
 - 「눈 깜빡임 인식 기반 디바이스 조절 모듈」 특허 출원 — `10-2024-0172645`
 - 교내 연구회 후속 팀 결성으로 이어짐, 공동발명자 5인 중 1인
-- 2024.11.27 · 출원인
+- 2024.11.27 · 출원인 동서대학교 산학협력단
